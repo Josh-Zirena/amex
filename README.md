@@ -1,4 +1,4 @@
-# AMEX &middot; [![Node version](https://img.shields.io/badge/node-v22.14.0-purple.svg)]()[![OS Compatibility](https://img.shields.io/badge/OS-mcOS%20|%20Windows%20|%20Linux-blue.svg?label=os)]() [![Development Status](https://img.shields.io/badge/status-alpha-green.svg)]()
+# AMEX &middot; [![Node version](https://img.shields.io/badge/node-v22.14.0-purple.svg)]() [![OS Compatibility](https://img.shields.io/badge/OS-mcOS%20|%20Windows%20|%20Linux-blue.svg?label=os)]() [![Development Status](https://img.shields.io/badge/status-alpha-green.svg)]()
 
 ## Description
 
