@@ -32,6 +32,6 @@ npm run dev
 
 ## Tech Being Used
 
-- [Node.js](https://nodejs.org/en) - Cross platform, open-source event-driven programming language that adopts an event-driven, non-blocking I/O model, making it ideal for building scalable and high-performance network applications.
+- [Node.js](https://nodejs.org/en) - Cross platform programming language that adopts an event-driven, non-blocking I/O model, making it ideal for building scalable and high-performance network applications.
 - [Fastify](https://fastify.dev/) - Fastify is a web framework for Node.js that focuses on delivering low overhead and high performance.
 - [msw](https://mswjs.io/) - Mock Service Worker, a tool used for API mocking by intercepting HTTP requests at the network level via service workers or request interception in Node.js.
