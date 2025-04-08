@@ -1,4 +1,4 @@
-# AMEX &middot; [![Node version](https://img.shields.io/badge/node-v22.14.0-blue.svg)]()[![OS Compatibility](https://img.shields.io/badge/OS-mcOS%20|%20Windows%20|%20Linux-purple.svg?label=os)]() [![Development Status](https://img.shields.io/badge/status-alpha-orange.svg)]()
+# AMEX &middot; [![Node version](https://img.shields.io/badge/node-v22.14.0-purple.svg)]()[![OS Compatibility](https://img.shields.io/badge/OS-mcOS%20|%20Windows%20|%20Linux-blue.svg?label=os)]() [![Development Status](https://img.shields.io/badge/status-alpha-green.svg)]()
 
 ## Description
 
@@ -30,4 +30,8 @@ npm i
 npm run dev
 ```
 
-## Project Structure
+## Tech Being Used
+
+- [Node.js](https://nodejs.org/en) - Cross platform, open-source event-driven programming language that adopts an event-driven, non-blocking I/O model, making it ideal for building scalable and high-performance network applications.
+- [Fastify](https://fastify.dev/) - Fastify is a web framework for Node.js that focuses on delivering low overhead and high performance.
+- [msw](https://mswjs.io/) - Mock Service Worker, a tool used for API mocking by intercepting HTTP requests at the network level via service workers or request interception in Node.js.
